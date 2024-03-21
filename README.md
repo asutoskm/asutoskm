@@ -1,5 +1,3 @@
-# Ashutosh Kr Mishra
-
 ## Senior Frontend Software Engineer
 With 6 years of experience, I specialize in UI design, coding, and leading teams in modern web and web3 technologies to optimize code.
 <div align="center">
