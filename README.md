@@ -1,4 +1,4 @@
-## Senior Frontend Software Engineer
+## Senior Software Engineer
 With 6 years of experience, I specialize in UI design, coding, and leading teams in modern web and web3 technologies to optimize code.
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
