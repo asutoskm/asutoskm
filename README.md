@@ -9,6 +9,7 @@ With 6 years of experience, I specialize in UI design, coding, and leading teams
 <img src="https://private-user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" width="100">
 </div>
 ### 🛠 Skills
+
 - **Languages & Frameworks:** ReactJs, NextJs, JavaScript, HTML, CSS/SCSS, NodeJS, React Native
 - **Tools & Technologies:** Git, Webpack, Jenkins, MySQL, Rest API, Etherjs, Firebase, Jest, ESLint, Babel, Webflow, Tailwind
 - **Design:** Figma
