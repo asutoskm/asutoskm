@@ -9,26 +9,6 @@ With 6 years of experience in developing and maintaining enterprise applications
 - LinkedIn: [ashukrmis](https://linkedin.com/in/ashukrmis)
 - GitHub: [asutoskm](https://github.com/asutoskm)
 
-### 💼 Work Experience
-
-#### Senior Software Engineer at Relative (01/2023 - Present)
-- Designed UI components and coded application interfaces using Next.js and React.
-- Managed teams, reviewed code, and led scrum calls.
-- Worked on: [https://relative.fi/](https://relative.fi/)
-
-#### Senior Frontend Developer (web3) at Tezsure (01/2022 - 12/2022)
-- Focused on UI components design and application interface coding in Next.js and React.
-- Managed teams and participated in code reviews and scrum calls.
-- Projects: [ctez.app](https://ctez.app/), [plenty.network](https://plenty.network/), and more.
-
-#### Software Engineer at Cisco Systems Inc (01/2021 - 01/2022)
-- Developed responsive, cross-browser compatible, and high-performance web applications using ReactJS, CSS, HTML, and Material-UI.
-- Optimized front-end architecture for performance and developed new features.
-
-#### Programmer Analyst at Cognizant Technology Solutions (07/2018 - 01/2021)
-- Designed and developed websites using HTML, CSS, JS, React, Spring MVC, Java, WildFly, and Microsoft SQL Server.
-- Provided solution architecture and detailed design documents.
-
 ### 🛠 Skills
 
 - **Languages & Frameworks:** ReactJs, NextJs, JavaScript, HTML, CSS/SCSS, NodeJS, React Native
